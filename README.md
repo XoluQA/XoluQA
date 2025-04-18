@@ -32,8 +32,8 @@ Además, estoy enfocado en crear contenido educativo sobre calidad de software, 
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF7139?style=flat&logo=browserstack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SAP Hybris](https://img.shields.io/badge/SAP%20Hybris-0FAAFF?style=flat&logo=sap&logoColor=white)
+
+
 
 ---
 
