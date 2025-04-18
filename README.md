@@ -4,9 +4,18 @@
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" alt="XoluQA" style="border-radius: 50%">
 </p>
 
-Soy un QA Engineer apasionado por la automatización de pruebas de software 🧪🚀  
-Actualmente estoy trabajando en proyectos usando **Serenity BDD**, **Screenplay**, **Gradle**, y más.  
-Estoy creando contenido sobre pruebas automatizadas, calidad de software y herramientas de testing.
+Soy un QA Engineer apasionado por la automatización de pruebas de software 🧪🚀
+Combino la precisión de las pruebas manuales funcionales con la eficiencia de la automatización de pruebas E2E para asegurar la calidad de los productos en los que trabajo.
+
+Actualmente desarrollo pruebas usando frameworks como Serenity BDD, aplicando el patrón Screenplay, gestionando builds con Gradle y estructurando los proyectos con buenas prácticas.
+Además, estoy enfocado en crear contenido educativo sobre calidad de software, herramientas de testing, y buenas prácticas en QA, con el objetivo de compartir conocimiento y crecer con la comunidad.
+
+💡 Me interesa todo lo que tenga que ver con:
+
+Pruebas E2E efectivas y mantenibles
+Exploración de nuevas herramientas y tecnologías QA
+Aprendizaje sobre integración de pruebas en pipelines CI/CD
+Participación en comunidades técnicas
 
 ---
 
@@ -21,12 +30,11 @@ Estoy creando contenido sobre pruebas automatizadas, calidad de software y herra
 
 ### 💻 Stack principal
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![Gradle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg)
+![Cucumber](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg)
+![Selenium](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg)
+
 
 ---
 
