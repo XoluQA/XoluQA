@@ -30,7 +30,7 @@ Además, estoy enfocado en crear contenido educativo sobre calidad de software, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XoluQA&show_icons=true&theme=tokyonight &hide_border=true&locale=en" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XoluQA&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="180" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XoluQA&layout=compact&theme=default" height="180" />
 </p>
