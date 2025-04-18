@@ -39,8 +39,8 @@ Además, estoy enfocado en crear contenido educativo sobre calidad de software, 
 
 ### 🔗 Conecta conmigo
 
-- 💼 LinkedIn: [linkedin.com/in/XoluQA](https://linkedin.com/in/XoluQA)
-- 🧪 Portafolio: [XoluQA.github.io](https://XoluQA.github.io) *(si decides hacer uno)*
+- 💼 LinkedIn: [linkedin.com/in/XoluQA](https://linkedin.com/in/)
+- 🧪 Portafolio: [XoluQA.github.io](https://XoluQA.github.io) *(En Construcción)*
 - 💌 Email: [xolugg@gmail.com](mailto:xolugg@gmail.com)
 
 ---
