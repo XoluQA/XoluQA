@@ -30,10 +30,13 @@ Participación en comunidades técnicas
 
 ### 💻 Stack principal
 
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-![Gradle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg)
-![Cucumber](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg)
-![Selenium](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg)
+![Java]([https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg))  
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 
 
 ---
