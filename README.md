@@ -30,7 +30,7 @@ Participación en comunidades técnicas
 
 ### 💻 Stack principal
 
-![Java]([https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg))  
+![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
