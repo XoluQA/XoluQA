@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola! Soy XoluQA 👨‍💻</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" alt="XoluQA" style="border-radius: 50%">
-</p>
+</p> -->
 
 Soy un QA Engineer apasionado por la automatización de pruebas de software 🧪🚀
 Combino la precisión de las pruebas manuales funcionales con la eficiencia de la automatización de pruebas E2E para asegurar la calidad de los productos en los que trabajo.
